@@ -1,6 +1,4 @@
 {
-  "test":
-  [
       "id": 62715,
       "group_id": 0,
       "default_billing": "44044",
@@ -63,5 +61,4 @@
           "value": "1"
         }
       ]
-  ]
 }
